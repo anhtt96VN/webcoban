@@ -1,0 +1,1 @@
+Continuous Integration for PHP projects using Jenkins/GitHub
